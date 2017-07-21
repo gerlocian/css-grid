@@ -1,0 +1,22 @@
+{
+  "name": "css-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerlocian/css-grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerlocian/css-grid/issues"
+  },
+  "homepage": "https://github.com/gerlocian/css-grid#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
